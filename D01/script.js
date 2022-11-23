@@ -1,0 +1,1 @@
+console.log("Udemy Sadık Turan Fist Lesson");
